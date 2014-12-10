@@ -1,0 +1,24 @@
+git 
+git init
+git status -s
+git clone url.git
+git add .
+git add -u
+git add -A
+
+git commit -m 'asdada'
+git pull --rebase
+git push
+
+git checkout -b branchname
+git branch
+git checkout master
+
+To create Repo:
+curl -u 'nyeates' https://api.github.com/user/repos -d '{"name":"projectname","description":"This project is a test"}'
+
+Define where to push to:
+git remote add origin git@github.com:nyeates/projectname.git
+
+Push local repo to github:
+git push origin master
