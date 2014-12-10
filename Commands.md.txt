@@ -21,3 +21,6 @@ git remote add origin git@github.com:nyeates/projectname.git
 
 Push local repo to github:
 git push origin master
+
+Push an existing local repository:
+git push origin --mirror
