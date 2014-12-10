@@ -1,4 +1,3 @@
-git 
 git init
 git status -s
 git clone url.git
