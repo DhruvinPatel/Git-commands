@@ -1,1 +1,1 @@
-This project contains basic Git commands.
+This repo contains basic Git commands.
